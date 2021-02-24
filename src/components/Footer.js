@@ -26,8 +26,8 @@ const Footer = () => {
         </div>
       </section>
       <div className="footer-links">
-        <div className="footer-links-wrapper">
-          <div className="footer-links-items">
+        <div className="footer-link-wrapper">
+          <div className="footer-link-items">
             <h2>About Us</h2>
             <Link to="/sign-up">How it works</Link>
             <Link to="/">Testimonials</Link>
